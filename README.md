@@ -5,12 +5,12 @@ The project aims to create a user-friendly web application using machine learnin
 ## Key Technologies and Skills
 
 - Python
-- Pandas
-* Scikit-Learn
-- Matplotlib
-* Seaborn
-- Pickle
-* Streamlit
+* Pandas
+- Scikit-Learn
+* Matplotlib
+- Seaborn
+* Pickle
+- Streamlit
   
 **Data Collection**: Obtain the dataset from.[Data Source](https://beta.data.gov.sg/collections/189/view)
 
